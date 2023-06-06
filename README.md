@@ -1,39 +1,36 @@
-
-
-
-[![image.png]([(https://i.postimg.cc/D04FxKXt/Screenshot-2023-06-06-211256.png)](https://i.postimg.cc/D04FxKXt/Screenshot-2023-06-06-211256.png))
-
+![Screenshot 2023-06-06 211256](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/a6a4cd1f-274c-4b6e-84ca-8aff08612558)
 
 # Air-BNB Travel Data Analysis Project 📊
 
 
 
 ## ❓ Problem Statement
+Air BNB has aimed to expand on travelling possibilities and present more unique, personalized ways of experiencing destinations. The analysis aims to draw insights from the data obtained from the listing activity of homestays in New York City. Some research questions need to be answered with respect to all the listings of past booking information. To draw insights develop a report by Extracting-Transforming-Loading of data which contains listings of the past booking information.
+Analyze the data with respect to the Host, the neighbourhood, and customer pricing and reviews.
 
-Sales management has gained importance to meet increasing competition and the need
-for improved methods of distribution to reduce cost and to increase profits. Sales
-management today is the most important function in a commercial and business
-enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 ## 🛠 Tools Used
     1. Excel
     2. Power BI
+    3. Power Query
 ## 📉 Dashboard
 
-[![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
-<!-- ![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
-[![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
-Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
+![Screenshot 2023-06-06 183428](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/5d0408d5-1876-459a-ab6a-c201dd53b0c0)
+
+
+
+![Screenshot 2023-06-06 200814](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/e84ad9e1-6e32-400b-84c0-d22d10f37732)
+
+Watch the complete Dashboard video [Link]()
 
 ## ✔️ Conclusion
-1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
+1. Highest number of bookings are seen in the Manhattan Neighbourhood Group 
+2. The top earning hosts in New York City are the ones having maximum percentage of bookings in the Manhattan Neighbourhood Group making it the most preferred area by customers.
+3. Neighbourhoods with the highest average pricing are the ones that have less number of bookings
+4. Average pricing in relation with the reviews is almost the same for every review score out of 5
+5. The mostly preferred room types are Entire Home/ Apartments, Private Rooms 
+6. Entire Home/ apt, Private Rooms are also the ones having less average pricing 
+7. Manhattan has the maximum bookings and 88% of which are bookings of Entire Homes/ Apartments 
 
-2. If we observe the monthly insights of 2017,2018,2019, the sales are at their peak in March, June, and September and are low in April, May & October. Amazon can come up with some good discounts and offers to generate high revenue.
-
-3. The sales for the US are highest among all countries and lowest in Iran (IR).
-
-4. The Better Large Canned Shrimp & High Top Dried Mushrooms are the highest selling products in domestic and international markets. 
-
-5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
 ## 🗂 Documentation
 
 [High Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/HLD%20Document.pdf)
@@ -48,4 +45,4 @@ Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/manasi-khillare-a189b3259/)
