@@ -33,15 +33,15 @@ Watch the complete Dashboard video [Link]()
 
 ## 🗂 Documentation
 
-[High Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/HLD%20Document.pdf)
+[High Level Design Document](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/High%20Level%20Design.pdf)
 
-[Low Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/LLD%20Document.pdf)
+[Low Level Design Document](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Low%20Level%20Design.pdf)
 
-[Architecture](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Architecture.pdf)
+[Architecture][(https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Architecture.pdf)]
 
-[WireFrame](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Wireframe.pdf)
+[WireFrame](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Wireframe%20Documentation.pdf)
 
-[Report](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Amazon%20sales%20report.pptx)
+[Report](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Air-BNB%20%20Travel%20Data%20Analysis%20Report.pptx)
 
 ## 📩 Feedback
 
