@@ -37,7 +37,7 @@ Watch the complete Dashboard video [Link]()
 
 [Low Level Design Document](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Low%20Level%20Design.pdf)
 
-[Architecture][(https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Architecture.pdf)]
+[Architecture](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Architecture.pdf)
 
 [WireFrame](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Wireframe%20Documentation.pdf)
 
