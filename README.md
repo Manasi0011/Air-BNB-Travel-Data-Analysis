@@ -20,7 +20,9 @@ Analyze the data with respect to the Host, the neighbourhood, and customer prici
 
 ![Screenshot 2023-06-06 200814](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/e84ad9e1-6e32-400b-84c0-d22d10f37732)
 
-Watch the complete Dashboard video [Link]()
+
+
+Watch the complete Dashboard video [Link](https://youtu.be/Q6UcDt-JO6o)
 
 ## ✔️ Conclusion
 1. Highest number of bookings are seen in the Manhattan Neighbourhood Group 
@@ -42,6 +44,7 @@ Watch the complete Dashboard video [Link]()
 [WireFrame](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Wireframe%20Documentation.pdf)
 
 [Report](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/blob/main/Air-BNB%20%20Travel%20Data%20Analysis%20Report.pptx)
+
 
 ## 📩 Feedback
 
