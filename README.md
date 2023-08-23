@@ -1,4 +1,4 @@
-![Screenshot 2023-06-06 211256](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/a6a4cd1f-274c-4b6e-84ca-8aff08612558)
+![Screenshot 2023-06-06 211256](https://github.com/Manasi0011/Air-BNB-Travel-Data-Analysis/assets/73515081/51772b7f-fe60-4b85-8dcc-ae9870d0c821)
 
 # Air-BNB Travel Data Analysis Project 📊
 
